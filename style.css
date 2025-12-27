@@ -1,0 +1,19 @@
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+ }
+
+
+div{
+  height: 300px;
+  width: 300px;
+  background-color: crimson;
+  color: white;
+  font-family: 'Trebuchet MS', 
+}
+
+#galib{
+  
+  color: lightblue;
+}
